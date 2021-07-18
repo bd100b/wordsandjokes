@@ -1,7 +1,7 @@
 * { font-family: Helvetica, Arial, sans-serif; }
 
 .promoBox {
-	    font-size: 16px;
+	    font-size: 20px;
 	position: relative;
 	margin: 30px;
 	padding: 10px;
@@ -164,7 +164,7 @@
 }
 
 .tick ul {
-	width: 85rem;
+	width: 51rem;
   list-style: none;
 }
 
